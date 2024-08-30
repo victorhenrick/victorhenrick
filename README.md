@@ -1,4 +1,4 @@
-## OLá eu sou o victor henrick, estudante de programação !
+## Olá eu sou o victor henrick, estudante de programação !
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
